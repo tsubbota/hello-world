@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello friends!
+My name is Tatsiana. I like to learn something and have a tasty meal.
